@@ -1,0 +1,33 @@
+body
+{
+    background-image: url(https://c4.wallpaperflare.com/wallpaper/432/763/671/sign-apple-blue-background-wallpaper-preview.jpg);
+    background-size: 97rem 46rem;
+}
+h1
+{
+    text-align: center;
+}
+.col
+{
+    text-align: center;
+}
+.row-1
+{
+    text-align: center;
+}
+#head3
+{
+   text-decoration-color: aliceblue;
+}
+#aaa
+{
+    text-align: left;
+}
+#bbb
+{
+    text-align: center;
+}
+#ccc
+{
+    text-align: right;
+}
